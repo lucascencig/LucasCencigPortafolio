@@ -370,6 +370,7 @@ svg {
     text-shadow: 0px 0px 10px #8de8f2;
     /* animation: escribir 3s steps(12), blink 0.5s infinite step-end alternate; */
     overflow: hidden;
+    text-align: center;
   }
 
   @keyframes escribir {
@@ -385,11 +386,12 @@ svg {
   }
 
   .presentacion h3 {
-    font-size: 18px;
+    font-size: 16px;
     color: #05e0f8;
     margin-top: 40px;
     font-family: 'Orbitron', sans-serif;
     /* text-shadow: 3px 4px 3px #cce0e3; */
+    text-align: center;
   }
 
   .curriculum {
